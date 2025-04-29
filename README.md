@@ -3,9 +3,9 @@ This the repository of the cable asemblies
 ## Cable index 
 1) Anytone At779UV to Radio interface R1
    Cable asembly connection
-    ![Pin connections]([images/my_image.png](https://github.com/antonjan/Cable-Assemblies/blob/main/ROIP_Anyton1.jpeg))
+    ![Pin connections]([ROIP_Anyton1.jpeg))
 2) Strip PCB asembly
-  ![Board at top]([images/my_image.png](https://github.com/antonjan/Cable-Assemblies/blob/main/ROIP_Anyton1.2peg))
+  ![Board at top]([ROIP_Anyton1.2peg))
 3) Strip PCB at botom
-   ![Board at botom]([images/my_image.png](https://github.com/antonjan/Cable-Assemblies/blob/main/ROIP_Anyton1.3peg))
+   ![Board at botom]([ROIP_Anyton1.3peg))
    
