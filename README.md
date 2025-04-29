@@ -12,4 +12,5 @@ This the repository of the cable asemblies
   ![Board at top](Roip_anytone2.jpeg)
 4) Strip PCB at botom   
    ![Board at botom](Roip_anytone3.jpeg)
+5) ![Board at botom](R1-2020-radio-connector.jpeg)
    
