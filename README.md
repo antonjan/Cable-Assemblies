@@ -10,6 +10,6 @@ This the repository of the cable asemblies
     ![Pin connections](ROIP_Anyton1.jpeg)
 3) Strip PCB asembly
   ![Board at top](Roip_anytone2.jpeg)
-4) Strip PCB at botom
+4) Strip PCB at botom   
    ![Board at botom](Roip_anytone3.jpeg)
    
