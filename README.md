@@ -15,7 +15,7 @@ This the repository of the cable asemblies
 5) ![Board at botom](R1-2020-radio-connector.jpeg)
 
 
-#Roip Setup 
+# Roip Setup 
 ## Raspberry Pi commands
    sudo modprobe snd-aloop
    
